@@ -1,20 +1,17 @@
 {
   "name": "周丹听歌",
   "short_name": "周丹听歌",
+  "description": "一个专属的音乐播放器",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0b0b14",
   "theme_color": "#0b0b14",
   "icons": [
     {
-      "src": "/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/icon-512.png",
+      "src": "/icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
