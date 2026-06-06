@@ -1,12 +1,11 @@
 {
-  "background_color": "#4d7db9",
+  "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
   "name": "周丹听歌",
   "orientation": "any",
   "scope": "/",
-  "short_name": "周丹听歌",
-  "start_url": "/",
-  "theme_color": "#5078be",
-  "description": "一个本地音乐管理播放器"
+  "short_name": "一个本地音乐管理播放器",
+  "start_url": "https://zhou-net.github.io/zhoudan-player/",
+  "theme_color": "#5e8acb"
 }
