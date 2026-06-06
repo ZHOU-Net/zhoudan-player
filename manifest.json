@@ -1,11 +1,17 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "周丹听歌",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "一个本地音乐管理播放器",
-  "start_url": "https://zhou-net.github.io/zhoudan-player/",
-  "theme_color": "#5e8acb"
+  "short_name": "周丹听歌",
+  "description": "一个专属的音乐播放器",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0b14",
+  "theme_color": "#0b0b14",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
